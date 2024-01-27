@@ -44,8 +44,6 @@ class TransformsHolder:
     transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
 ])
     
-
-
 def create_category_mapping(directory: str) -> Tuple[Dict[int, str], Dict[str, int]]:
     """
     Generates two dictionaries mapping category names to indices and vice versa.
