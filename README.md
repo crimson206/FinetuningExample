@@ -1,5 +1,7 @@
 # FinetuningExample
 
+[Shortcut](https://github.com/crimson206/FinetuningExample/blob/main/src/fine_tune/script.ipynb) to Script.
+
 ## Overview
 
 This repository is designed to provide a simple example of fine-tuning.
@@ -42,3 +44,10 @@ Given that this is a transfer learning scenario, training can often be completed
 Finally, to evaluate the newly trained model's performance, the predicted class names along with the actual images were displayed.
 
 ![Validation](src/sample_images/output.png)
+
+
+## Script
+
+For more details, please refer to the link below.
+
+https://github.com/crimson206/FinetuningExample/blob/main/src/fine_tune/script.ipynb
